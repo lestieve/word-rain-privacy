@@ -1,6 +1,6 @@
 # Privacy Policy — Word Rain
 
-**Last updated: October 8, 2026**
+**Last updated: October 10, 2026**
 
 This policy describes the data processed by the **Word Rain** mobile game
 (Android application ID: `com.lestieve.wordrain`), published by **Lestieve**.
@@ -40,16 +40,27 @@ process technical data in accordance with their own privacy policies.
 
 ### Advertising — Google AdMob
 
-The current version of the code uses the Google Mobile Ads SDK to show ads to
-players who do not have Premium access. Ad requests may involve Google
-processing data such as advertising identifiers, IP address, information about
-the device and application, and interactions with ads. The exact data may
-depend on the device, region, and service configuration.
+Word Rain uses the Google Mobile Ads SDK (Google AdMob) to show ads to players
+who do not have Premium access. The published version uses Word Rain's own
+AdMob application and ad units, in three formats: banner, interstitial, and
+rewarded ads. Rewarded ads are shown only if the player chooses to watch them.
 
-The current version of the code contains Google's test advertising IDs. The
-configuration and practices applicable to a published version may differ. For
-more information about Google's processing, see the [Google Privacy Policy](https://policies.google.com/privacy)
-and [Google's information about advertising](https://policies.google.com/technologies/ads).
+When ads are requested or displayed, Google may collect and process data such
+as the device's advertising identifier (for example, the Android Advertising
+ID), IP address, information about the device and application (model,
+operating system version, language), and interactions with ads (impressions,
+clicks). This data may be used to serve and measure ads, which may be
+personalized, and to prevent fraud and abuse. The exact data depends on the
+device, region, and your settings. Lestieve does not receive this data directly
+and does not use it for its own purposes.
+
+You can limit ad personalization or reset your advertising identifier in your
+device settings (on Android: Settings > Google > Ads). Where required by
+applicable law, such as in the EEA, consent for personalized ads may be
+requested and can be managed or withdrawn. Players with Premium access do not
+see ads. For more information about Google's processing, see the
+[Google Privacy Policy](https://policies.google.com/privacy) and
+[Google's information about advertising](https://policies.google.com/technologies/ads).
 
 ### In-app purchases — Google Play
 

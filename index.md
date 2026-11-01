@@ -14,7 +14,7 @@ the application's page on the Google Play Store.
 
 Word Rain is intended for people aged **13 and over**. The game is not designed
 for children under 13 and does not ask them to provide personal data. If you
-believe that a child under 13 has provided us with data, contact the developer
+believe that a child under 13 has provided us with data, contact the developer. 
 through the application's Google Play page.
 
 ## Data processed by the game
